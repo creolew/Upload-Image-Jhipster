@@ -1,0 +1,26 @@
+{
+  "uploadImageApp": {
+    "userExtra": {
+      "home": {
+        "title": "User Extras",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Thêm mới một User Extra",
+        "createOrEditLabel": "Thêm mới hoặc cập nhật User Extra",
+        "notFound": "No User Extras found"
+      },
+      "created": "Một User Extra mới được tạo với định danh {{ param }}",
+      "updated": "Một User Extra cập nhật với định danh {{ param }}",
+      "deleted": "Một User Extra đã xóa với định danh {{ param }}",
+      "delete": {
+        "question": "Bạn có chắc là muốn xóa User Extra {{ id }}?"
+      },
+      "detail": {
+        "title": "User Extra"
+      },
+      "id": "ID",
+      "frontImage": "Front Image",
+      "backImage": "Back Image",
+      "user": "User"
+    }
+  }
+}

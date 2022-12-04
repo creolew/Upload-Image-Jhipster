@@ -1,0 +1,11 @@
+
+
+entity UserExtra {
+	frontImage String,
+    backImage String
+}
+
+relationship OneToOne {
+  UserExtra{user} to User
+}
+
